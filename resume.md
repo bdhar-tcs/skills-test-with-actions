@@ -25,4 +25,5 @@ Developed and maintained various conference talks, online training, and in-perso
 
 ### Leadership
 
+Talk to me.
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
